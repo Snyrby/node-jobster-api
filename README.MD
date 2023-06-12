@@ -24,6 +24,11 @@ JWT_SECRET=
 JWT_LIFETIME=
 ```
 
+- You can populate the database with fake data by running the fake data script
+```sh
+node populate.js
+```
+
 - start the project
 
 ```sh
