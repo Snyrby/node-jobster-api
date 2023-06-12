@@ -14,7 +14,6 @@ npm install
 ```
 
 - create .env and provide correct values
-- you can copy from previous project (just change the DB name)
 
 .env
 
