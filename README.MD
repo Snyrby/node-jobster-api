@@ -2,11 +2,11 @@
 
 #### Starter
 
-The starter is a copy of jobs-api final project, just with additional data.
+- This is a job tracking app that tracks pending, declined etc.
 
 #### Setup
 
-- navigate to 06.5-jobster-api/starter
+- navigate to node-jobster-api/starter
 - install dependencies
 
 ```sh
