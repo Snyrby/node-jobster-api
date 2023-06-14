@@ -6,7 +6,7 @@
 
 #### Setup
 
-- navigate to node-jobster-api/starter
+- navigate to node-jobster-api
 - install dependencies
 
 ```sh
